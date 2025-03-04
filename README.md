@@ -96,4 +96,4 @@ Program ini terdiri dari dua bagian utama:
 ### Contoh Penggunaan:
 Berikut adalah Contoh Penggunaannya:
 
-![Screenshot1](image/screenshot1.png)
+![Screenshot1](screenshot1.png)
