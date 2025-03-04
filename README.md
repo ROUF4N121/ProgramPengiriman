@@ -16,10 +16,10 @@ Program ini digunakan untuk menghitung biaya pengiriman berdasarkan berat paket,
 ### Deskripsi Program:
 Program ini menghitung biaya pengiriman berdasarkan beberapa parameter seperti berat paket, jarak pengiriman, layanan ekspres, dan status keanggotaan member. Biaya pengiriman dasar adalah Rp 10.000 dan dapat meningkat tergantung pada kondisi berikut:
 
--Tambahan Rp 5.000 jika berat lebih dari 5 kg.
--Tambahan Rp 8.000 jika jarak lebih dari 10 km.
--Tambahan Rp 20.000 jika menggunakan layanan express.
--Diskon 10% diberikan kepada pelanggan yang merupakan member.
+- Tambahan Rp 5.000 jika berat lebih dari 5 kg.
+- Tambahan Rp 8.000 jika jarak lebih dari 10 km.
+- Tambahan Rp 20.000 jika menggunakan layanan express.
+- Diskon 10% diberikan kepada pelanggan yang merupakan member.
 
 ### Kode Program
 Kode program dapat dilihat dibawah ini atau buka file ini [`Pengiriman.py`](Pengiriman.py).
